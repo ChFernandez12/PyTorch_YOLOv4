@@ -1,4 +1,4 @@
 classes=80
-train=../coco/train2017.txt
-valid=../coco/testdev2017.txt
+train=/content/PyTorch_YOLOv4/train128.txt
+valid=/content/PyTorch_YOLOv4/valid128.txt
 names=data/coco.names
